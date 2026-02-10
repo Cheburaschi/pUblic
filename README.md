@@ -16,6 +16,6 @@
 - [x] Выполненная задача
 - [ ] Ещё одна задача
 
-Цвета: #FF5733 #33FF57 #3357
+RGB 'rgb(R,G,B)' 'rgb(9, 105, 218)'
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
